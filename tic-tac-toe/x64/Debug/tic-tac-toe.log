@@ -1,0 +1,6 @@
+﻿  tic-tac-toe.cpp
+D:\c++\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(175,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\c++\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(183,7): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\c++\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(184,9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\c++\tic-tac-toe\tic-tac-toe\tic-tac-toe.cpp(177,6): warning C4101: code: неиспользованная локальная переменная
+  tic-tac-toe.vcxproj -> D:\c++\tic-tac-toe\x64\Debug\tic-tac-toe.exe
